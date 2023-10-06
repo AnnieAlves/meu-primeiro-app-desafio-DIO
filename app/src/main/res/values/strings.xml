@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Meu Primeiro App - DIO</string>-
+    <string name="app_description" translatable="false">
+        Esse é o meu projeto para o desafio DIO - Criando um APP com suporte a diversas línguas,
+        para o Boootcamp Santander 2023.
+    </string>
+</resources>

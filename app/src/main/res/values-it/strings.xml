@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >Il mio primo App - DIO</string>-
+    <string name="app_description" >
+        Questo è il mio progetto per la sfida DIO - Creazione di un\'app con supporto per diverse
+        lingue, per il Bootcamp Santander 2023.
+    </string>
+</resources>
